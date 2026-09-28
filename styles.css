@@ -1,0 +1,34 @@
+html{
+    background-color: rgb(198, 219, 191);
+}
+
+body {
+    margin: 0;
+}
+
+
+.site-header {
+    background-color: rgb(99, 132, 81);
+    padding: 30px;
+    color: #ffff
+    margin-bottom: 20px;
+}
+
+.page-name{
+    margin: 0;
+}
+
+.nav-links{
+    color:rgb(99, 132, 81);
+        padding: 30px;
+}
+.main-content{
+    background-color: rgb(122, 171, 149);
+        padding: 30px;
+            margin-bottom: 20px;
+}
+.site-footer{
+    background-color: rgb(99, 132, 81);
+    padding: 30px;
+
+}
