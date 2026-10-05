@@ -19,9 +19,31 @@ body {
 }
 
 .nav-links{
-    color:rgb(99, 132, 81);
-        padding: 30px;
+    color:rgb(235, 247, 229);
+        padding: 5px;
 }
+
+.nav-links:hover {
+background-color: #624971;
+color: black;
+}
+
+
+/*this is with the keyboard*/
+.nav-links:active {
+background-color: #935d83;
+
+}
+
+
+.nav-links:focus {
+font-size: 30px;
+
+}
+
+
+
+
 .main-content{
     background-color: rgb(122, 171, 149);
         padding: 30px;
